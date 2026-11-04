@@ -1,0 +1,68 @@
+{
+  "main_complaint": [
+    {
+      "value": "routine diabetes check-up",
+      "source": "Reason for visit: routine diabetes check-up."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "tingling in both feet",
+      "source": "Complaints: tingling in both feet and increased thirst for two months."
+    },
+    {
+      "value": "increased thirst",
+      "source": "Complaints: tingling in both feet and increased thirst for two months."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "T2DM",
+      "source": "History: T2DM for 8 years, HTN, appendectomy in 2015."
+    },
+    {
+      "value": "HTN",
+      "source": "History: T2DM for 8 years, HTN, appendectomy in 2015."
+    },
+    {
+      "value": "appendectomy in 2015",
+      "source": "History: T2DM for 8 years, HTN, appendectomy in 2015."
+    }
+  ],
+  "medications": [
+    {
+      "value": "metformin 1000 mg twice daily",
+      "source": "Current medications: metformin 1000 mg twice daily, ramipril 10 mg daily."
+    },
+    {
+      "value": "ramipril 10 mg daily",
+      "source": "Current medications: metformin 1000 mg twice daily, ramipril 10 mg daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "NKDA",
+      "source": "Allergies: NKDA."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "HbA1c",
+      "source": "Plan: HbA1c, fasting lipid panel and urine albumin ordered."
+    },
+    {
+      "value": "fasting lipid panel",
+      "source": "Plan: HbA1c, fasting lipid panel and urine albumin ordered."
+    },
+    {
+      "value": "urine albumin",
+      "source": "Plan: HbA1c, fasting lipid panel and urine albumin ordered."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Return in 3 months with results",
+      "source": "Return in 3 months with results."
+    }
+  ]
+}

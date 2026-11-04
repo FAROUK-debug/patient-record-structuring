@@ -1,0 +1,38 @@
+{
+  "main_complaint": [
+    {
+      "value": "recurrent headaches",
+      "source": "Chief complaint: recurrent headaches."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "nausea",
+      "source": "Attacks come with nausea and sensitivity to light."
+    },
+    {
+      "value": "sensitivity to light",
+      "source": "Attacks come with nausea and sensitivity to light."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "none of note",
+      "source": "Past history: none of note."
+    }
+  ],
+  "medications": [
+    {
+      "value": "ibuprofen 400 mg during attacks",
+      "source": "Medications: none regular, takes ibuprofen 400 mg during attacks."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "Follow up in 6 weeks with the diary",
+      "source": "Follow up in 6 weeks with the diary."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "main_complaint": [
+    {
+      "value": "worsening wheeze",
+      "source": "Teenage girl, 16, known asthmatic, seen for worsening wheeze over three days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Night-time cough",
+      "source": "Night-time cough and needs her inhaler more often."
+    },
+    {
+      "value": "needs her inhaler more often",
+      "source": "Night-time cough and needs her inhaler more often."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "known asthmatic",
+      "source": "Teenage girl, 16, known asthmatic, seen for worsening wheeze over three days."
+    }
+  ],
+  "medications": [
+    {
+      "value": "salbutamol inhaler as needed",
+      "source": "Uses salbutamol inhaler as needed and beclometasone inhaler twice daily."
+    },
+    {
+      "value": "beclometasone inhaler twice daily",
+      "source": "Uses salbutamol inhaler as needed and beclometasone inhaler twice daily."
+    },
+    {
+      "value": "Prednisolone 30 mg daily for 5 days",
+      "source": "Prednisolone 30 mg daily for 5 days."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "dust mites",
+      "source": "Allergic to dust mites and cats."
+    },
+    {
+      "value": "cats",
+      "source": "Allergic to dust mites and cats."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Spirometry",
+      "source": "Spirometry to be repeated in 4 weeks."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "See again in 48 hours",
+      "source": "See again in 48 hours."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "main_complaint": [
+    {
+      "value": "chest tightness on exertion",
+      "source": "58 y/o F c/o chest tightness on exertion x 2 weeks."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "SOB",
+      "source": "Assoc SOB, no sweating, no nausea."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "hyperlipidemia",
+      "source": "PMH: hyperlipidemia."
+    }
+  ],
+  "medications": [
+    {
+      "value": "atorvastatin 20 mg nocte",
+      "source": "Meds: atorvastatin 20 mg nocte."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No allergies known",
+      "source": "No allergies known."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "ECG",
+      "source": "ECG and troponin today, stress test booked."
+    },
+    {
+      "value": "troponin",
+      "source": "ECG and troponin today, stress test booked."
+    },
+    {
+      "value": "stress test",
+      "source": "ECG and troponin today, stress test booked."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "F/U cardiology clinic 2 weeks",
+      "source": "F/U cardiology clinic 2 weeks."
+    }
+  ]
+}

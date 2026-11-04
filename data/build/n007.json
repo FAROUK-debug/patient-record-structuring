@@ -1,0 +1,29 @@
+{
+  "main_complaint": [
+    {
+      "value": "lower back pain",
+      "source": "Complaint: lower back pain after lifting a heavy box on Monday."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "pain goes down the left leg",
+      "source": "The pain goes down the left leg."
+    }
+  ],
+  "medical_history": [],
+  "medications": [
+    {
+      "value": "naproxen 500 mg twice daily with food for 5 days",
+      "source": "Treatment: naproxen 500 mg twice daily with food for 5 days."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "Come back if the leg pain worsens or numbness appears",
+      "source": "Come back if the leg pain worsens or numbness appears."
+    }
+  ]
+}
