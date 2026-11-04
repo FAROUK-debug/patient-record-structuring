@@ -1,0 +1,59 @@
+{
+  "main_complaint": [
+    {
+      "value": "palpitations",
+      "source": "72M palpitations + fatigue x 3d."
+    },
+    {
+      "value": "fatigue",
+      "source": "72M palpitations + fatigue x 3d."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "AF",
+      "source": "Known AF on apixaban 5 mg BD, bisoprolol 2.5 mg OD."
+    },
+    {
+      "value": "T2DM",
+      "source": "T2DM."
+    }
+  ],
+  "medications": [
+    {
+      "value": "apixaban 5 mg BD",
+      "source": "Known AF on apixaban 5 mg BD, bisoprolol 2.5 mg OD."
+    },
+    {
+      "value": "bisoprolol 2.5 mg OD",
+      "source": "Known AF on apixaban 5 mg BD, bisoprolol 2.5 mg OD."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "nil",
+      "source": "Allergies: nil."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "TFTs",
+      "source": "TFTs and U&E sent."
+    },
+    {
+      "value": "U&E",
+      "source": "TFTs and U&E sent."
+    },
+    {
+      "value": "Echo",
+      "source": "Echo requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Cardiology OPD 4/52",
+      "source": "Cardiology OPD 4/52."
+    }
+  ]
+}

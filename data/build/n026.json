@@ -1,0 +1,64 @@
+{
+  "main_complaint": [
+    {
+      "value": "Pre-operative assessment",
+      "source": "Pre-operative assessment before a right hip replacement planned for next month."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "hip pain when walking",
+      "source": "No complaints at present apart from hip pain when walking."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "type 2 diabetes",
+      "source": "Medical history includes type 2 diabetes and a heart attack in 2019."
+    },
+    {
+      "value": "heart attack in 2019",
+      "source": "Medical history includes type 2 diabetes and a heart attack in 2019."
+    }
+  ],
+  "medications": [
+    {
+      "value": "metformin 850 mg twice daily",
+      "source": "Regular tablets are metformin 850 mg twice daily, aspirin 75 mg daily and simvastatin 40 mg at night."
+    },
+    {
+      "value": "aspirin 75 mg daily",
+      "source": "Regular tablets are metformin 850 mg twice daily, aspirin 75 mg daily and simvastatin 40 mg at night."
+    },
+    {
+      "value": "simvastatin 40 mg at night",
+      "source": "Regular tablets are metformin 850 mg twice daily, aspirin 75 mg daily and simvastatin 40 mg at night."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No known drug allergies",
+      "source": "No known drug allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Blood tests",
+      "source": "Blood tests, ECG and chest X-ray requested."
+    },
+    {
+      "value": "ECG",
+      "source": "Blood tests, ECG and chest X-ray requested."
+    },
+    {
+      "value": "chest X-ray",
+      "source": "Blood tests, ECG and chest X-ray requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Anaesthetist review next week",
+      "source": "Anaesthetist review next week."
+    }
+  ]
+}

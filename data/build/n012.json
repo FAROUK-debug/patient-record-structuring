@@ -1,0 +1,68 @@
+{
+  "main_complaint": [
+    {
+      "value": "painful swollen right big toe",
+      "source": "Complaint: painful swollen right big toe since yesterday morning."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "redness",
+      "source": "Other symptoms: redness and warmth over the joint."
+    },
+    {
+      "value": "warmth over the joint",
+      "source": "Other symptoms: redness and warmth over the joint."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "gout in 2023",
+      "source": "PMH: gout in 2023, high blood pressure, CKD stage 3."
+    },
+    {
+      "value": "high blood pressure",
+      "source": "PMH: gout in 2023, high blood pressure, CKD stage 3."
+    },
+    {
+      "value": "CKD stage 3",
+      "source": "PMH: gout in 2023, high blood pressure, CKD stage 3."
+    }
+  ],
+  "medications": [
+    {
+      "value": "hydrochlorothiazide 25 mg daily",
+      "source": "Drugs: hydrochlorothiazide 25 mg daily, allopurinol 100 mg daily."
+    },
+    {
+      "value": "allopurinol 100 mg daily",
+      "source": "Drugs: hydrochlorothiazide 25 mg daily, allopurinol 100 mg daily."
+    },
+    {
+      "value": "colchicine 0.5 mg twice daily for 3 days",
+      "source": "Treatment: colchicine 0.5 mg twice daily for 3 days."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "none",
+      "source": "Allergies: none."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "serum uric acid",
+      "source": "Orders: serum uric acid and creatinine."
+    },
+    {
+      "value": "creatinine",
+      "source": "Orders: serum uric acid and creatinine."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "1 week",
+      "source": "Follow-up: 1 week."
+    }
+  ]
+}

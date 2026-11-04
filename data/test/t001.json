@@ -1,0 +1,56 @@
+{
+  "main_complaint": [
+    {
+      "value": "severe pain in the right flank",
+      "source": "35-year-old man arrived with sudden severe pain in the right flank since this morning."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "pain spreads to the groin",
+      "source": "The pain spreads to the groin and he has vomited twice."
+    },
+    {
+      "value": "vomited twice",
+      "source": "The pain spreads to the groin and he has vomited twice."
+    },
+    {
+      "value": "blood in his urine",
+      "source": "He noticed blood in his urine."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "kidney stone five years ago",
+      "source": "He had a kidney stone five years ago."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Diclofenac 75 mg injection",
+      "source": "Diclofenac 75 mg injection given."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No known allergies",
+      "source": "No known allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "CT scan of the abdomen",
+      "source": "CT scan of the abdomen and urine test ordered."
+    },
+    {
+      "value": "urine test",
+      "source": "CT scan of the abdomen and urine test ordered."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Urology appointment within one week",
+      "source": "Urology appointment within one week."
+    }
+  ]
+}

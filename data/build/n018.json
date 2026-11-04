@@ -1,0 +1,47 @@
+{
+  "main_complaint": [
+    {
+      "value": "room-spinning dizziness on turning head",
+      "source": "67F room-spinning dizziness on turning head x 4 days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Nausea",
+      "source": "Nausea +."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "HTN",
+      "source": "HTN, OA."
+    },
+    {
+      "value": "OA",
+      "source": "HTN, OA."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Perindopril 4 mg mane",
+      "source": "Perindopril 4 mg mane, paracetamol PRN."
+    },
+    {
+      "value": "paracetamol PRN",
+      "source": "Perindopril 4 mg mane, paracetamol PRN."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "NKA",
+      "source": "NKA."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "FU 1/52 if persists",
+      "source": "FU 1/52 if persists."
+    }
+  ]
+}

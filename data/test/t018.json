@@ -1,0 +1,56 @@
+{
+  "main_complaint": [
+    {
+      "value": "Fever",
+      "source": "Fever and productive cough for 4 days."
+    },
+    {
+      "value": "productive cough",
+      "source": "Fever and productive cough for 4 days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Right-sided chest pain on breathing in",
+      "source": "Right-sided chest pain on breathing in."
+    },
+    {
+      "value": "Loss of appetite",
+      "source": "Loss of appetite."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "Previous pneumonia in 2022",
+      "source": "Previous pneumonia in 2022."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Amoxicillin 1 g three times a day for 5 days",
+      "source": "Amoxicillin 1 g three times a day for 5 days."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No known allergy",
+      "source": "No known allergy."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Chest X-ray",
+      "source": "Chest X-ray and CRP."
+    },
+    {
+      "value": "CRP",
+      "source": "Chest X-ray and CRP."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "48 hours",
+      "source": "48 hours."
+    }
+  ]
+}

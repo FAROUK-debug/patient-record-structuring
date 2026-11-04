@@ -1,0 +1,33 @@
+{
+  "main_complaint": [
+    {
+      "value": "trouble sleeping",
+      "source": "Retired teacher, 70, complains of trouble sleeping for three months."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "wakes at 4 am and cannot fall back asleep",
+      "source": "She wakes at 4 am and cannot fall back asleep."
+    },
+    {
+      "value": "feels tired during the day",
+      "source": "She feels tired during the day."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "underactive thyroid",
+      "source": "She takes levothyroxine 75 mcg each morning for an underactive thyroid."
+    }
+  ],
+  "medications": [
+    {
+      "value": "levothyroxine 75 mcg each morning",
+      "source": "She takes levothyroxine 75 mcg each morning for an underactive thyroid."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": []
+}

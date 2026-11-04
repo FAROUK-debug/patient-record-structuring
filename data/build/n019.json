@@ -1,0 +1,43 @@
+{
+  "main_complaint": [
+    {
+      "value": "has not passed a normal stool for a week",
+      "source": "Father brings his 4-year-old daughter, who has not passed a normal stool for a week."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Passing stools is painful",
+      "source": "Passing stools is painful and she has tummy aches."
+    },
+    {
+      "value": "tummy aches",
+      "source": "Passing stools is painful and she has tummy aches."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "no health problems",
+      "source": "She was born at term and has no health problems."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Macrogol sachets once daily for two weeks",
+      "source": "Macrogol sachets once daily for two weeks."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "eggs",
+      "source": "Allergic to eggs."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "See the GP again in two weeks",
+      "source": "See the GP again in two weeks."
+    }
+  ]
+}

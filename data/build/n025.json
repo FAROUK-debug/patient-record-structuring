@@ -1,0 +1,72 @@
+{
+  "main_complaint": [
+    {
+      "value": "new confusion",
+      "source": "Reason for visit: new confusion since yesterday, reported by her daughter."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "poor appetite",
+      "source": "Symptoms: poor appetite, smelly urine."
+    },
+    {
+      "value": "smelly urine",
+      "source": "Symptoms: poor appetite, smelly urine."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "dementia",
+      "source": "Known conditions: dementia, heart failure, osteoporosis."
+    },
+    {
+      "value": "heart failure",
+      "source": "Known conditions: dementia, heart failure, osteoporosis."
+    },
+    {
+      "value": "osteoporosis",
+      "source": "Known conditions: dementia, heart failure, osteoporosis."
+    }
+  ],
+  "medications": [
+    {
+      "value": "furosemide 40 mg daily",
+      "source": "Treatment at home: furosemide 40 mg daily, alendronate 70 mg weekly, donepezil 10 mg at night."
+    },
+    {
+      "value": "alendronate 70 mg weekly",
+      "source": "Treatment at home: furosemide 40 mg daily, alendronate 70 mg weekly, donepezil 10 mg at night."
+    },
+    {
+      "value": "donepezil 10 mg at night",
+      "source": "Treatment at home: furosemide 40 mg daily, alendronate 70 mg weekly, donepezil 10 mg at night."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "amoxicillin",
+      "source": "Allergies: amoxicillin (rash)."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "urine dipstick",
+      "source": "Tests: urine dipstick and culture, blood tests."
+    },
+    {
+      "value": "culture",
+      "source": "Tests: urine dipstick and culture, blood tests."
+    },
+    {
+      "value": "blood tests",
+      "source": "Tests: urine dipstick and culture, blood tests."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Home visit by the nurse tomorrow",
+      "source": "Home visit by the nurse tomorrow."
+    }
+  ]
+}

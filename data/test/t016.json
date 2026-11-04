@@ -1,0 +1,14 @@
+{
+  "main_complaint": [
+    {
+      "value": "sick note",
+      "source": "Patient asks for a sick note after a cold."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [],
+  "medications": [],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": []
+}

@@ -1,0 +1,47 @@
+{
+  "main_complaint": [
+    {
+      "value": "fever",
+      "source": "42M fever, myalgia, dry cough x 2d."
+    },
+    {
+      "value": "myalgia",
+      "source": "42M fever, myalgia, dry cough x 2d."
+    },
+    {
+      "value": "dry cough",
+      "source": "42M fever, myalgia, dry cough x 2d."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "Asthma",
+      "source": "Asthma, mild."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Salbutamol PRN",
+      "source": "Salbutamol PRN."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "aspirin",
+      "source": "Allergies: aspirin."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Flu swab",
+      "source": "Flu swab sent."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Return if SOB",
+      "source": "Return if SOB."
+    }
+  ]
+}

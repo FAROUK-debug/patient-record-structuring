@@ -1,0 +1,37 @@
+{
+  "main_complaint": [
+    {
+      "value": "diarrhoea",
+      "source": "A 31-year-old woman has had diarrhoea and vomiting since last night after eating at a restaurant."
+    },
+    {
+      "value": "vomiting",
+      "source": "A 31-year-old woman has had diarrhoea and vomiting since last night after eating at a restaurant."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "stomach cramps",
+      "source": "She also has stomach cramps."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "no other illness",
+      "source": "She has no other illness and takes the contraceptive pill."
+    }
+  ],
+  "medications": [
+    {
+      "value": "contraceptive pill",
+      "source": "She has no other illness and takes the contraceptive pill."
+    },
+    {
+      "value": "Oral rehydration solution",
+      "source": "Oral rehydration solution recommended."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": []
+}

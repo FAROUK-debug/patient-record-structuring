@@ -1,0 +1,24 @@
+{
+  "main_complaint": [
+    {
+      "value": "red and sticky left eye",
+      "source": "Young man, 24, with red and sticky left eye since this morning."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [],
+  "medications": [
+    {
+      "value": "Chloramphenicol eye drops four times a day for 5 days",
+      "source": "Chloramphenicol eye drops four times a day for 5 days were prescribed."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "If no better in 3 days, come back",
+      "source": "If no better in 3 days, come back."
+    }
+  ]
+}

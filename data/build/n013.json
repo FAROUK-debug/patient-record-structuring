@@ -1,0 +1,56 @@
+{
+  "main_complaint": [
+    {
+      "value": "low mood",
+      "source": "37 y/o M, low mood x 3 months."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Poor sleep",
+      "source": "Poor sleep, loss of appetite, poor concentration."
+    },
+    {
+      "value": "loss of appetite",
+      "source": "Poor sleep, loss of appetite, poor concentration."
+    },
+    {
+      "value": "poor concentration",
+      "source": "Poor sleep, loss of appetite, poor concentration."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "No prior psych hx",
+      "source": "No prior psych hx."
+    }
+  ],
+  "medications": [
+    {
+      "value": "sertraline 50 mg OD",
+      "source": "Start sertraline 50 mg OD."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No allergies",
+      "source": "No allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "TFTs",
+      "source": "TFTs, FBC."
+    },
+    {
+      "value": "FBC",
+      "source": "TFTs, FBC."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "R/V 2/52",
+      "source": "R/V 2/52."
+    }
+  ]
+}

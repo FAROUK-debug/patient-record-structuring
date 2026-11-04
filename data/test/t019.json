@@ -1,0 +1,55 @@
+{
+  "main_complaint": [
+    {
+      "value": "polyuria",
+      "source": "49M polyuria, polydipsia x 1/12, wt loss 5 kg."
+    },
+    {
+      "value": "polydipsia",
+      "source": "49M polyuria, polydipsia x 1/12, wt loss 5 kg."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "wt loss 5 kg",
+      "source": "49M polyuria, polydipsia x 1/12, wt loss 5 kg."
+    }
+  ],
+  "medical_history": [],
+  "medications": [
+    {
+      "value": "No meds",
+      "source": "No meds."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No allergies",
+      "source": "No allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "HbA1c",
+      "source": "HbA1c, lipids, ACR."
+    },
+    {
+      "value": "lipids",
+      "source": "HbA1c, lipids, ACR."
+    },
+    {
+      "value": "ACR",
+      "source": "HbA1c, lipids, ACR."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Dietitian referral",
+      "source": "Dietitian referral."
+    },
+    {
+      "value": "DM clinic 2/52",
+      "source": "DM clinic 2/52."
+    }
+  ]
+}

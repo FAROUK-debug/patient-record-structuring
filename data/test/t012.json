@@ -1,0 +1,43 @@
+{
+  "main_complaint": [
+    {
+      "value": "numbness in the right thumb and index finger at night",
+      "source": "Main problem: numbness in the right thumb and index finger at night."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "weak grip",
+      "source": "Other: weak grip, dropping things."
+    },
+    {
+      "value": "dropping things",
+      "source": "Other: weak grip, dropping things."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "hypothyroidism",
+      "source": "Medical background: hypothyroidism."
+    }
+  ],
+  "medications": [
+    {
+      "value": "levothyroxine 100 mcg daily",
+      "source": "Treatment: levothyroxine 100 mcg daily."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "nerve conduction study",
+      "source": "Requested: nerve conduction study."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "orthopaedic clinic after the study",
+      "source": "Follow-up: orthopaedic clinic after the study."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "main_complaint": [
+    {
+      "value": "weak urinary stream",
+      "source": "68M weak urinary stream x 1 yr."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Nocturia",
+      "source": "Nocturia x3, hesitancy."
+    },
+    {
+      "value": "hesitancy",
+      "source": "Nocturia x3, hesitancy."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "CABG 2020",
+      "source": "PMH: CABG 2020, hyperlipidaemia."
+    },
+    {
+      "value": "hyperlipidaemia",
+      "source": "PMH: CABG 2020, hyperlipidaemia."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Aspirin 75 OD",
+      "source": "Aspirin 75 OD, rosuvastatin 10 nocte."
+    },
+    {
+      "value": "rosuvastatin 10 nocte",
+      "source": "Aspirin 75 OD, rosuvastatin 10 nocte."
+    },
+    {
+      "value": "Tamsulosin 400 mcg OD",
+      "source": "Tamsulosin 400 mcg OD started."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "NKDA",
+      "source": "NKDA."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "PSA",
+      "source": "PSA + U&E."
+    },
+    {
+      "value": "U&E",
+      "source": "PSA + U&E."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Urology if PSA raised",
+      "source": "Urology if PSA raised."
+    },
+    {
+      "value": "R/V 6/52",
+      "source": "R/V 6/52."
+    }
+  ]
+}

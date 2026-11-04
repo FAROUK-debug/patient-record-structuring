@@ -1,0 +1,38 @@
+{
+  "main_complaint": [
+    {
+      "value": "hurt her left ankle",
+      "source": "She slipped on wet stairs this morning and hurt her left ankle."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "ankle is swollen",
+      "source": "The ankle is swollen and she can bear weight only with difficulty."
+    },
+    {
+      "value": "bear weight only with difficulty",
+      "source": "The ankle is swollen and she can bear weight only with difficulty."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "otherwise healthy",
+      "source": "She is otherwise healthy and takes no medicines."
+    }
+  ],
+  "medications": [
+    {
+      "value": "takes no medicines",
+      "source": "She is otherwise healthy and takes no medicines."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "X-ray of the left ankle",
+      "source": "X-ray of the left ankle ordered."
+    }
+  ],
+  "follow_up": []
+}

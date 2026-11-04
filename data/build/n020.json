@@ -1,0 +1,39 @@
+{
+  "main_complaint": [
+    {
+      "value": "post-operative check",
+      "source": "Visit type: post-operative check, 10 days after laparoscopic cholecystectomy."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Mild pain at the wound site",
+      "source": "Mild pain at the wound site."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "laparoscopic cholecystectomy",
+      "source": "Visit type: post-operative check, 10 days after laparoscopic cholecystectomy."
+    }
+  ],
+  "medications": [
+    {
+      "value": "paracetamol 1 g up to four times a day as needed",
+      "source": "Medications: paracetamol 1 g up to four times a day as needed."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "codeine",
+      "source": "Allergies: codeine causes vomiting."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "none planned unless problems arise",
+      "source": "Next visit: none planned unless problems arise."
+    }
+  ]
+}
