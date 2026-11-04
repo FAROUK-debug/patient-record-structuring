@@ -1,0 +1,56 @@
+{
+  "main_complaint": [
+    {
+      "value": "burning on urination",
+      "source": "34-year-old woman, 20 weeks pregnant, presents with burning on urination for 3 days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "increased frequency",
+      "source": "She also has increased frequency."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "20 weeks pregnant",
+      "source": "34-year-old woman, 20 weeks pregnant, presents with burning on urination for 3 days."
+    },
+    {
+      "value": "kidney stone in 2021",
+      "source": "Previous kidney stone in 2021."
+    }
+  ],
+  "medications": [
+    {
+      "value": "folic acid 5 mg daily",
+      "source": "She takes folic acid 5 mg daily and iron tablets."
+    },
+    {
+      "value": "iron tablets",
+      "source": "She takes folic acid 5 mg daily and iron tablets."
+    },
+    {
+      "value": "Cefalexin 500 mg four times a day for 7 days",
+      "source": "Cefalexin 500 mg four times a day for 7 days prescribed."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "sulfa drugs",
+      "source": "Severe reaction to sulfa drugs in the past."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Urine culture",
+      "source": "Urine culture sent."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Recheck urine after treatment",
+      "source": "Recheck urine after treatment."
+    }
+  ]
+}

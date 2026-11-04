@@ -1,0 +1,33 @@
+{
+  "main_complaint": [
+    {
+      "value": "right ear pain",
+      "source": "Mother brings her 6-year-old son because of right ear pain since last night."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "runny nose",
+      "source": "He had a runny nose last week."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "No medical problems",
+      "source": "No medical problems."
+    }
+  ],
+  "medications": [
+    {
+      "value": "amoxicillin syrup 250 mg three times a day for 7 days",
+      "source": "Start amoxicillin syrup 250 mg three times a day for 7 days and paracetamol syrup if needed."
+    },
+    {
+      "value": "paracetamol syrup if needed",
+      "source": "Start amoxicillin syrup 250 mg three times a day for 7 days and paracetamol syrup if needed."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": []
+}

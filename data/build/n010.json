@@ -1,0 +1,19 @@
+{
+  "main_complaint": [
+    {
+      "value": "repeat prescription",
+      "source": "Patient came in for a repeat prescription."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [],
+  "medications": [
+    {
+      "value": "lisinopril 10 mg daily",
+      "source": "Repeat lisinopril 10 mg daily."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": []
+}

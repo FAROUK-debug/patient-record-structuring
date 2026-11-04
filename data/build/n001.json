@@ -1,0 +1,48 @@
+{
+  "main_complaint": [
+    {
+      "value": "cough",
+      "source": "45-year-old man seen today for a cough that started five days ago."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "sore throat",
+      "source": "He also reports a sore throat and a mild fever since yesterday."
+    },
+    {
+      "value": "mild fever",
+      "source": "He also reports a sore throat and a mild fever since yesterday."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "hypertension",
+      "source": "History of hypertension, well controlled."
+    }
+  ],
+  "medications": [
+    {
+      "value": "amlodipine 5 mg once daily",
+      "source": "He takes amlodipine 5 mg once daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "penicillin",
+      "source": "Allergic to penicillin, which gave him a rash."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Chest X-ray",
+      "source": "Chest X-ray requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Review in one week if symptoms persist",
+      "source": "Review in one week if symptoms persist."
+    }
+  ]
+}

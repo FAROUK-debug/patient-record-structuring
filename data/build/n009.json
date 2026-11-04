@@ -1,0 +1,52 @@
+{
+  "main_complaint": [
+    {
+      "value": "Burning pain in the upper stomach",
+      "source": "Burning pain in the upper stomach for 3 weeks, worse after meals."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Bloating",
+      "source": "Bloating and occasional heartburn."
+    },
+    {
+      "value": "occasional heartburn",
+      "source": "Bloating and occasional heartburn."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "knee arthritis",
+      "source": "Patient has knee arthritis."
+    }
+  ],
+  "medications": [
+    {
+      "value": "paracetamol 1 g when needed",
+      "source": "Now on paracetamol 1 g when needed."
+    },
+    {
+      "value": "Omeprazole 20 mg daily",
+      "source": "Omeprazole 20 mg daily started today."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "None known",
+      "source": "None known."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Helicobacter stool test",
+      "source": "Helicobacter stool test requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Phone call with the result in 10 days",
+      "source": "Phone call with the result in 10 days."
+    }
+  ]
+}
