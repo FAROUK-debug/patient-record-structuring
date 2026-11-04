@@ -1,0 +1,52 @@
+{
+  "main_complaint": [
+    {
+      "value": "cough with blood streaks",
+      "source": "Reason for visit: cough with blood streaks for 2 weeks."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "night sweats",
+      "source": "Other symptoms: night sweats, weight loss."
+    },
+    {
+      "value": "weight loss",
+      "source": "Other symptoms: night sweats, weight loss."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "tuberculosis in 2009",
+      "source": "Past history: treated for tuberculosis in 2009."
+    }
+  ],
+  "medications": [
+    {
+      "value": "none",
+      "source": "Medications: none."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "none known",
+      "source": "Allergies: none known."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "chest CT",
+      "source": "Orders: chest CT, sputum smear."
+    },
+    {
+      "value": "sputum smear",
+      "source": "Orders: chest CT, sputum smear."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "chest clinic within 7 days",
+      "source": "Follow-up: chest clinic within 7 days."
+    }
+  ]
+}

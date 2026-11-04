@@ -1,0 +1,43 @@
+{
+  "main_complaint": [
+    {
+      "value": "vomiting",
+      "source": "3 y/o M vomiting x 1 day, loose stools."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "loose stools",
+      "source": "3 y/o M vomiting x 1 day, loose stools."
+    },
+    {
+      "value": "Drinking less",
+      "source": "Drinking less, wet nappies OK."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "No PMH",
+      "source": "No PMH."
+    }
+  ],
+  "medications": [
+    {
+      "value": "No regular meds",
+      "source": "No regular meds."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "none",
+      "source": "Allergy: none."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "If no urine in 8h attend ED",
+      "source": "If no urine in 8h attend ED."
+    }
+  ]
+}

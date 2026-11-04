@@ -1,0 +1,51 @@
+{
+  "main_complaint": [
+    {
+      "value": "blood pressure review",
+      "source": "Visit: blood pressure review."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "hypertension since 2017",
+      "source": "Past medical history: hypertension since 2017, gout."
+    },
+    {
+      "value": "gout",
+      "source": "Past medical history: hypertension since 2017, gout."
+    }
+  ],
+  "medications": [
+    {
+      "value": "losartan 50 mg daily",
+      "source": "Medications: losartan 50 mg daily, allopurinol 300 mg daily."
+    },
+    {
+      "value": "allopurinol 300 mg daily",
+      "source": "Medications: losartan 50 mg daily, allopurinol 300 mg daily."
+    },
+    {
+      "value": "losartan to 100 mg daily",
+      "source": "Plan: increase losartan to 100 mg daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "none known",
+      "source": "Allergies: none known."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "U&E",
+      "source": "U&E in 2 weeks."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Review in 4 weeks",
+      "source": "Review in 4 weeks."
+    }
+  ]
+}

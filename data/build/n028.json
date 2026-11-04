@@ -1,0 +1,43 @@
+{
+  "main_complaint": [
+    {
+      "value": "sore throat",
+      "source": "17M sore throat, fever x 2d."
+    },
+    {
+      "value": "fever",
+      "source": "17M sore throat, fever x 2d."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Odynophagia",
+      "source": "Odynophagia."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "No PMH",
+      "source": "No PMH."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Clarithromycin 500 mg BD 5/7",
+      "source": "Clarithromycin 500 mg BD 5/7."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "Penicillin",
+      "source": "Penicillin allergy - anaphylaxis."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "Return PRN",
+      "source": "Return PRN."
+    }
+  ]
+}

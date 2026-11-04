@@ -1,0 +1,60 @@
+{
+  "main_complaint": [
+    {
+      "value": "antenatal check",
+      "source": "Reason for visit: antenatal check."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "ankle swelling",
+      "source": "Complaints: ankle swelling, back ache."
+    },
+    {
+      "value": "back ache",
+      "source": "Complaints: ankle swelling, back ache."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "28 weeks pregnant",
+      "source": "Patient is 28 weeks pregnant."
+    },
+    {
+      "value": "previous caesarean in 2023",
+      "source": "Obstetric history: one previous caesarean in 2023."
+    }
+  ],
+  "medications": [
+    {
+      "value": "iron 200 mg daily",
+      "source": "Medications: iron 200 mg daily, folic acid 400 mcg daily."
+    },
+    {
+      "value": "folic acid 400 mcg daily",
+      "source": "Medications: iron 200 mg daily, folic acid 400 mcg daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "no known allergies",
+      "source": "Allergies: no known allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "glucose tolerance test",
+      "source": "Tests ordered: glucose tolerance test, full blood count."
+    },
+    {
+      "value": "full blood count",
+      "source": "Tests ordered: glucose tolerance test, full blood count."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Next appointment in 4 weeks",
+      "source": "Next appointment in 4 weeks."
+    }
+  ]
+}

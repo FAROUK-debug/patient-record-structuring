@@ -1,0 +1,46 @@
+{
+  "main_complaint": [
+    {
+      "value": "sneezing",
+      "source": "Her mother says the 9-year-old has had sneezing and an itchy nose every spring for three years."
+    },
+    {
+      "value": "itchy nose",
+      "source": "Her mother says the 9-year-old has had sneezing and an itchy nose every spring for three years."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "eyes water",
+      "source": "Her eyes water too."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "eczema as a baby",
+      "source": "She had eczema as a baby."
+    },
+    {
+      "value": "no asthma",
+      "source": "There is no asthma."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Cetirizine syrup 5 mg daily",
+      "source": "Cetirizine syrup 5 mg daily and a steroid nasal spray once daily were prescribed."
+    },
+    {
+      "value": "steroid nasal spray once daily",
+      "source": "Cetirizine syrup 5 mg daily and a steroid nasal spray once daily were prescribed."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "Allergy skin testing",
+      "source": "Allergy skin testing will be arranged."
+    }
+  ],
+  "follow_up": []
+}

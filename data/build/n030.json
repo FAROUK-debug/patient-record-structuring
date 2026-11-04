@@ -1,0 +1,52 @@
+{
+  "main_complaint": [
+    {
+      "value": "racing heart at night",
+      "source": "Main reason for consultation: racing heart at night for one week."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "shaking hands",
+      "source": "Associated: shaking hands, weight loss of 3 kg."
+    },
+    {
+      "value": "weight loss of 3 kg",
+      "source": "Associated: shaking hands, weight loss of 3 kg."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "no significant illness",
+      "source": "Background: no significant illness."
+    }
+  ],
+  "medications": [
+    {
+      "value": "cetirizine 10 mg daily",
+      "source": "Current drugs: cetirizine 10 mg daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "shellfish",
+      "source": "Allergies: shellfish."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "TSH",
+      "source": "Investigations: TSH and full blood count today."
+    },
+    {
+      "value": "full blood count",
+      "source": "Investigations: TSH and full blood count today."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "next Tuesday with the results",
+      "source": "Follow-up: next Tuesday with the results."
+    }
+  ]
+}

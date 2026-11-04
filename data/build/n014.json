@@ -1,0 +1,37 @@
+{
+  "main_complaint": [
+    {
+      "value": "Itchy rash on both elbows",
+      "source": "Itchy rash on both elbows for one month."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "Asthma as a child",
+      "source": "Asthma as a child."
+    },
+    {
+      "value": "Hay fever",
+      "source": "Hay fever."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Emollient cream twice a day",
+      "source": "Emollient cream twice a day."
+    },
+    {
+      "value": "Hydrocortisone 1% cream once daily for 7 days",
+      "source": "Hydrocortisone 1% cream once daily for 7 days."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "Return if no improvement after two weeks",
+      "source": "Return if no improvement after two weeks."
+    }
+  ]
+}

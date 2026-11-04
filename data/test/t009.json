@@ -1,0 +1,47 @@
+{
+  "main_complaint": [
+    {
+      "value": "Hot flushes",
+      "source": "Hot flushes and night sweats for five months."
+    },
+    {
+      "value": "night sweats",
+      "source": "Hot flushes and night sweats for five months."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Irregular periods",
+      "source": "Irregular periods."
+    },
+    {
+      "value": "Mood swings",
+      "source": "Mood swings."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "Migraine with aura",
+      "source": "Migraine with aura."
+    }
+  ],
+  "medications": [
+    {
+      "value": "None",
+      "source": "None."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "FSH blood test",
+      "source": "FSH blood test."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Return in one month",
+      "source": "Return in one month."
+    }
+  ]
+}

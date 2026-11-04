@@ -1,0 +1,46 @@
+{
+  "main_complaint": [
+    {
+      "value": "yearly thyroid follow-up",
+      "source": "Consultation type: yearly thyroid follow-up."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "Hashimoto thyroiditis since 2014",
+      "source": "Known: Hashimoto thyroiditis since 2014, vitamin D deficiency."
+    },
+    {
+      "value": "vitamin D deficiency",
+      "source": "Known: Hashimoto thyroiditis since 2014, vitamin D deficiency."
+    }
+  ],
+  "medications": [
+    {
+      "value": "levothyroxine 125 mcg daily",
+      "source": "Takes: levothyroxine 125 mcg daily and vitamin D 1000 units daily."
+    },
+    {
+      "value": "vitamin D 1000 units daily",
+      "source": "Takes: levothyroxine 125 mcg daily and vitamin D 1000 units daily."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "TSH",
+      "source": "Request: TSH and vitamin B12."
+    },
+    {
+      "value": "vitamin B12",
+      "source": "Request: TSH and vitamin B12."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Next check in 12 months",
+      "source": "Next check in 12 months."
+    }
+  ]
+}

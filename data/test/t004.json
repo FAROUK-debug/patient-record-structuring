@@ -1,0 +1,39 @@
+{
+  "main_complaint": [
+    {
+      "value": "Cracked, sore skin on both hands",
+      "source": "Cracked, sore skin on both hands for 3 weeks."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [
+    {
+      "value": "Psoriasis diagnosed in 2016",
+      "source": "Psoriasis diagnosed in 2016."
+    }
+  ],
+  "medications": [
+    {
+      "value": "Betamethasone cream once daily for 2 weeks",
+      "source": "Betamethasone cream once daily for 2 weeks started today."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "Nickel",
+      "source": "Nickel."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Patch testing",
+      "source": "Patch testing requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Dermatology referral",
+      "source": "Dermatology referral."
+    }
+  ]
+}

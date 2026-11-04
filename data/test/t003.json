@@ -1,0 +1,56 @@
+{
+  "main_complaint": [
+    {
+      "value": "bloating",
+      "source": "28F bloating + crampy abdo pain x 6/12, worse with stress."
+    },
+    {
+      "value": "crampy abdo pain",
+      "source": "28F bloating + crampy abdo pain x 6/12, worse with stress."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Alternating bowel habit",
+      "source": "Alternating bowel habit."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "nil",
+      "source": "PMH nil."
+    }
+  ],
+  "medications": [
+    {
+      "value": "nil",
+      "source": "Meds nil."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "NKDA",
+      "source": "NKDA."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "FBC",
+      "source": "FBC, CRP, coeliac screen."
+    },
+    {
+      "value": "CRP",
+      "source": "FBC, CRP, coeliac screen."
+    },
+    {
+      "value": "coeliac screen",
+      "source": "FBC, CRP, coeliac screen."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "R/V 6/52",
+      "source": "R/V 6/52."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "main_complaint": [
+    {
+      "value": "severe headache",
+      "source": "Man of 62 with new, severe headache since two days and pain in the right temple."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "pain in the right temple",
+      "source": "Man of 62 with new, severe headache since two days and pain in the right temple."
+    },
+    {
+      "value": "jaw ache",
+      "source": "Chewing makes his jaw ache and his vision was blurred briefly this morning."
+    },
+    {
+      "value": "vision was blurred briefly",
+      "source": "Chewing makes his jaw ache and his vision was blurred briefly this morning."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "polymyalgia rheumatica",
+      "source": "He has polymyalgia rheumatica."
+    }
+  ],
+  "medications": [
+    {
+      "value": "prednisolone 5 mg daily",
+      "source": "He is on prednisolone 5 mg daily and alendronate 70 mg weekly."
+    },
+    {
+      "value": "alendronate 70 mg weekly",
+      "source": "He is on prednisolone 5 mg daily and alendronate 70 mg weekly."
+    },
+    {
+      "value": "Prednisolone increased to 60 mg daily",
+      "source": "Prednisolone increased to 60 mg daily."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No allergies",
+      "source": "No allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "ESR",
+      "source": "ESR and CRP urgently."
+    },
+    {
+      "value": "CRP",
+      "source": "ESR and CRP urgently."
+    },
+    {
+      "value": "Temporal artery biopsy",
+      "source": "Temporal artery biopsy requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Seen by ophthalmology today",
+      "source": "Seen by ophthalmology today."
+    }
+  ]
+}

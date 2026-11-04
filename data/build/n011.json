@@ -1,0 +1,47 @@
+{
+  "main_complaint": [
+    {
+      "value": "tiredness",
+      "source": "Woman aged 42 came in because of tiredness for the past two months."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "gained 4 kg",
+      "source": "She has also gained 4 kg and feels cold all the time."
+    },
+    {
+      "value": "feels cold all the time",
+      "source": "She has also gained 4 kg and feels cold all the time."
+    }
+  ],
+  "medical_history": [],
+  "medications": [
+    {
+      "value": "no regular medication",
+      "source": "Takes no regular medication."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No known allergies",
+      "source": "No known allergies."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "TSH",
+      "source": "TSH and free T4 requested."
+    },
+    {
+      "value": "free T4",
+      "source": "TSH and free T4 requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Come back in two weeks to discuss the results",
+      "source": "Come back in two weeks to discuss the results."
+    }
+  ]
+}

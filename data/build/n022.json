@@ -1,0 +1,60 @@
+{
+  "main_complaint": [
+    {
+      "value": "breathlessness",
+      "source": "This 66-year-old former miner has COPD and came because his breathlessness has been worse for five days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "coughing up more green sputum",
+      "source": "He is coughing up more green sputum."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "COPD",
+      "source": "This 66-year-old former miner has COPD and came because his breathlessness has been worse for five days."
+    }
+  ],
+  "medications": [
+    {
+      "value": "tiotropium inhaler once daily",
+      "source": "He uses a tiotropium inhaler once daily and salbutamol as needed."
+    },
+    {
+      "value": "salbutamol as needed",
+      "source": "He uses a tiotropium inhaler once daily and salbutamol as needed."
+    },
+    {
+      "value": "Doxycycline 100 mg daily for 5 days",
+      "source": "Doxycycline 100 mg daily for 5 days and prednisolone 30 mg daily for 5 days prescribed."
+    },
+    {
+      "value": "prednisolone 30 mg daily for 5 days",
+      "source": "Doxycycline 100 mg daily for 5 days and prednisolone 30 mg daily for 5 days prescribed."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "No allergies are known",
+      "source": "No allergies are known."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Sputum culture",
+      "source": "Sputum culture and chest X-ray arranged."
+    },
+    {
+      "value": "chest X-ray",
+      "source": "Sputum culture and chest X-ray arranged."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Telephone review on Friday",
+      "source": "Telephone review on Friday."
+    }
+  ]
+}

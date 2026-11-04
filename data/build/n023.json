@@ -1,0 +1,47 @@
+{
+  "main_complaint": [
+    {
+      "value": "facial pain",
+      "source": "CC: facial pain and blocked nose for 10 days."
+    },
+    {
+      "value": "blocked nose",
+      "source": "CC: facial pain and blocked nose for 10 days."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "thick yellow discharge",
+      "source": "ROS: thick yellow discharge, reduced smell."
+    },
+    {
+      "value": "reduced smell",
+      "source": "ROS: thick yellow discharge, reduced smell."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "nil",
+      "source": "PMH: nil."
+    }
+  ],
+  "medications": [
+    {
+      "value": "xylometazoline nasal spray for 3 days",
+      "source": "P: xylometazoline nasal spray for 3 days."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "pollen",
+      "source": "Allergies: pollen."
+    }
+  ],
+  "exams_ordered": [],
+  "follow_up": [
+    {
+      "value": "Reassess if worse after 1 week",
+      "source": "Reassess if worse after 1 week."
+    }
+  ]
+}

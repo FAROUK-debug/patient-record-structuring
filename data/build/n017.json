@@ -1,0 +1,51 @@
+{
+  "main_complaint": [
+    {
+      "value": "twisted his right knee",
+      "source": "A 19-year-old football player twisted his right knee during a match on Saturday."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "pain",
+      "source": "He now has pain and swelling on the inside of the knee, and it sometimes gives way."
+    },
+    {
+      "value": "swelling on the inside of the knee",
+      "source": "He now has pain and swelling on the inside of the knee, and it sometimes gives way."
+    },
+    {
+      "value": "gives way",
+      "source": "He now has pain and swelling on the inside of the knee, and it sometimes gives way."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "No previous knee injury",
+      "source": "No previous knee injury."
+    }
+  ],
+  "medications": [
+    {
+      "value": "ibuprofen 400 mg when the pain is bad",
+      "source": "He takes ibuprofen 400 mg when the pain is bad."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "MRI of the right knee",
+      "source": "MRI of the right knee ordered."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Physiotherapy referral",
+      "source": "Physiotherapy referral given."
+    },
+    {
+      "value": "Clinic visit after the MRI",
+      "source": "Clinic visit after the MRI."
+    }
+  ]
+}

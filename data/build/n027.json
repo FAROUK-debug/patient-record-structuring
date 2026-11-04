@@ -1,0 +1,28 @@
+{
+  "main_complaint": [
+    {
+      "value": "Lump in the front of the neck",
+      "source": "Lump in the front of the neck, noticed two weeks ago."
+    }
+  ],
+  "symptoms": [],
+  "medical_history": [],
+  "medications": [],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "Neck ultrasound",
+      "source": "Neck ultrasound and TSH."
+    },
+    {
+      "value": "TSH",
+      "source": "Neck ultrasound and TSH."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Results clinic in 3 weeks",
+      "source": "Results clinic in 3 weeks."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "main_complaint": [
+    {
+      "value": "redness and swelling of the left lower leg",
+      "source": "Seen for redness and swelling of the left lower leg that appeared three days ago."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "warm and painful",
+      "source": "The area is warm and painful, and she felt feverish last night."
+    },
+    {
+      "value": "felt feverish",
+      "source": "The area is warm and painful, and she felt feverish last night."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "type 2 diabetes",
+      "source": "She has type 2 diabetes and varicose veins."
+    },
+    {
+      "value": "varicose veins",
+      "source": "She has type 2 diabetes and varicose veins."
+    }
+  ],
+  "medications": [
+    {
+      "value": "gliclazide 80 mg daily",
+      "source": "Her medicines are gliclazide 80 mg daily and metformin 500 mg twice daily."
+    },
+    {
+      "value": "metformin 500 mg twice daily",
+      "source": "Her medicines are gliclazide 80 mg daily and metformin 500 mg twice daily."
+    },
+    {
+      "value": "Flucloxacillin 500 mg four times a day for 7 days",
+      "source": "Flucloxacillin 500 mg four times a day for 7 days started."
+    }
+  ],
+  "allergies": [
+    {
+      "value": "erythromycin",
+      "source": "She reacted badly to erythromycin years ago."
+    }
+  ],
+  "exams_ordered": [
+    {
+      "value": "Blood glucose",
+      "source": "Blood glucose and CRP requested."
+    },
+    {
+      "value": "CRP",
+      "source": "Blood glucose and CRP requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "The wound nurse will see her on Thursday",
+      "source": "The wound nurse will see her on Thursday."
+    }
+  ]
+}

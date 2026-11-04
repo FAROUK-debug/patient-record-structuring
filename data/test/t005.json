@@ -1,0 +1,39 @@
+{
+  "main_complaint": [
+    {
+      "value": "pain in his left shoulder",
+      "source": "A 55-year-old painter reports pain in his left shoulder for two months, especially when raising his arm."
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "Sleeping on that side is difficult",
+      "source": "Sleeping on that side is difficult."
+    }
+  ],
+  "medical_history": [
+    {
+      "value": "fractured wrist in 2010",
+      "source": "He had a fractured wrist in 2010."
+    }
+  ],
+  "medications": [
+    {
+      "value": "paracetamol",
+      "source": "He occasionally takes paracetamol."
+    }
+  ],
+  "allergies": [],
+  "exams_ordered": [
+    {
+      "value": "Ultrasound of the shoulder",
+      "source": "Ultrasound of the shoulder was requested."
+    }
+  ],
+  "follow_up": [
+    {
+      "value": "Physiotherapy was arranged",
+      "source": "Physiotherapy was arranged."
+    }
+  ]
+}
