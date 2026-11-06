@@ -87,8 +87,8 @@ def _parts(body: str) -> list[str]:
 
 
 def _true_of_patient(sentence: str, start: int) -> bool:
-    """False when the words before position `start` deny the fact or give it to a relative."""
-    before = sentence[:start]
+    """False when the earlier words of its clause deny the fact or give it to a relative."""
+    before = re.split(r"[,;]", sentence[:start])[-1]
     return not DENIED.search(before) and not OTHER_PERSON.search(before)
 
 

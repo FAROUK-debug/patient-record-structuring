@@ -70,6 +70,10 @@ def test_denied_or_other_persons_fact_is_left_out(note, field):
     assert values(extract(note), field) == []
 
 
+def test_a_denial_stops_at_the_end_of_its_clause():
+    assert values(extract("No fever, history of asthma."), "medical_history") == ["asthma"]
+
+
 def test_medicine_stopped_in_a_labelled_section_is_left_out():
     assert values(extract("Medications: ramipril 5 mg, metformin 500 mg discontinued."), "medications") == ["ramipril 5 mg"]
 
