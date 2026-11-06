@@ -35,6 +35,11 @@ def test_empty_value_is_refused():
         Item(value="", source="Allergic to penicillin.")
 
 
+def test_blank_value_is_refused():
+    with pytest.raises(ValidationError):
+        Item(value="   ", source="Allergic to penicillin.")
+
+
 def test_supported_item_passes_ignoring_case_and_spacing():
     assert unsupported_items(record("penicillin", "allergic to penicillin."), NOTE) == []
 
