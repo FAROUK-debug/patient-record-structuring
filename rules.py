@@ -41,6 +41,10 @@ HISTORY = re.compile(r"\b(?:history of|history includes|known)\s+(?:a )?(?P<v>[^
 STATED_NONE = re.compile(r"\b(no (?:medical|health) problems|no prior [a-z ]+|no pmh|otherwise healthy)\b"
                          r"|\b(?P<meds>no regular [a-z]+|no medicines)\b", re.I)
 NEGATED = re.compile(r"^(no|not|denies|nil)\b", re.I)
+# Words before a match that flip its meaning: the word is in the note, the fact is not true.
+DENIED = re.compile(r"\b(no|not|never|denies|denied|without|negative for)\b", re.I)
+OTHER_PERSON = re.compile(r"\b(family|mother|father|parents?|brother|sister|son|daughter|grand(?:mother|father)|aunt|uncle)\b", re.I)
+NOT_TAKEN = re.compile(r"\b(stop\w*|discontinu\w+|not tak\w+|no longer|refus\w+|declin\w+)\b", re.I)
 TIME = re.compile(r"\s+(since|for|x \d|after)\b.*$", re.I)
 SPLIT = re.compile(r",|;| and | \+ ")
 
@@ -82,6 +86,12 @@ def _parts(body: str) -> list[str]:
     return [p for p in parts if p and not NEGATED.match(p)]
 
 
+def _true_of_patient(sentence: str, start: int) -> bool:
+    """False when the earlier words of its clause deny the fact or give it to a relative."""
+    before = re.split(r"[,;]", sentence[:start])[-1]
+    return not DENIED.search(before) and not OTHER_PERSON.search(before)
+
+
 def _from_section(field: str, body: str) -> list[str]:
     body = body.strip(" .")
     if field in ("medical_history", "medications", "allergies"):
@@ -92,21 +102,26 @@ def _from_section(field: str, body: str) -> list[str]:
         body = TIME.sub("", body)
     if field == "exams_ordered":
         body = re.sub(r"\s+(requested|ordered|today)$", "", body, flags=re.I)
-    return _parts(body)
+    parts = _parts(body)
+    return [p for p in parts if not NOT_TAKEN.search(p)] if field == "medications" else parts
 
 
 def _from_prose(sentence: str) -> dict[str, list[str]]:
     found = {field: [] for field in FIELDS}
-    if not re.search(r"\bstop", sentence, re.I):
+    if not NOT_TAKEN.search(sentence):
         for m in MEDICATION.finditer(sentence):
             found["medications"].append(re.sub(r"\s+(prescribed|started|were prescribed)$", "", m.group().strip()))
     if not NOT_ORDERED.search(sentence):
         found["exams_ordered"] = [m.group() for m in EXAMS.finditer(sentence)]
     for m in ALLERGY.finditer(sentence):
-        found["allergies"].append(m["to"] or m["before"] or m.group())
+        named = m["to"] or m["before"]
+        if named is None or named.casefold() == "no":  # "NKDA", "No allergy": a stated absence
+            found["allergies"].append(m.group())
+        elif _true_of_patient(sentence, m.start()):
+            found["allergies"].append(named)
     if FOLLOW_UP.search(sentence):
         found["follow_up"].append(sentence.rstrip(" ."))
-    if m := HISTORY.search(sentence):
+    if (m := HISTORY.search(sentence)) and _true_of_patient(sentence, m.start()):
         found["medical_history"].append(m["v"].strip())
     if m := STATED_NONE.search(sentence):
         found["medications" if m["meds"] else "medical_history"].append(m.group())

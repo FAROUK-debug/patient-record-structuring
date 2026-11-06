@@ -5,7 +5,7 @@ import pytest
 from checks import unsupported_items
 from rules import extract
 from schema import NOT_MENTIONED
-from scripts.evaluate import count, f1
+from scripts.evaluate import _exact, count, f1
 
 NOTES = sorted((Path(__file__).parent.parent / "data" / "build").glob("*.txt"))
 
@@ -53,6 +53,41 @@ def test_past_exam_is_left_out():
     assert values(extract("Last spirometry in March was normal."), "exams_ordered") == []
 
 
+@pytest.mark.parametrize("note, field", [
+    ("Not allergic to penicillin.", "allergies"),
+    ("No penicillin allergy.", "allergies"),
+    ("Mother is allergic to penicillin.", "allergies"),
+    ("No history of diabetes.", "medical_history"),
+    ("Denies any history of asthma.", "medical_history"),
+    ("Family history of diabetes.", "medical_history"),
+    ("Mother has a history of breast cancer.", "medical_history"),
+    ("Not taking metformin 500 mg daily.", "medications"),
+    ("Metformin 500 mg discontinued last year.", "medications"),
+    ("No longer on amlodipine 5 mg.", "medications"),
+    ("Patient refused amoxicillin 500 mg.", "medications"),
+])
+def test_denied_or_other_persons_fact_is_left_out(note, field):
+    assert values(extract(note), field) == []
+
+
+def test_a_denial_stops_at_the_end_of_its_clause():
+    assert values(extract("No fever, history of asthma."), "medical_history") == ["asthma"]
+
+
+def test_medicine_stopped_in_a_labelled_section_is_left_out():
+    assert values(extract("Medications: ramipril 5 mg, metformin 500 mg discontinued."), "medications") == ["ramipril 5 mg"]
+
+
+def test_no_allergy_is_kept_as_a_stated_absence():
+    assert values(extract("No allergy."), "allergies") == ["No allergy"]
+
+
+def test_real_allergy_and_history_still_found():
+    record = extract("Allergic to latex. History of asthma.")
+    assert values(record, "allergies") == ["latex"]
+    assert values(record, "medical_history") == ["asthma"]
+
+
 @pytest.mark.parametrize("path", NOTES, ids=lambda p: p.stem)
 def test_rules_never_invent(path):
     note = path.read_text(encoding="utf-8")
@@ -61,6 +96,10 @@ def test_rules_never_invent(path):
 
 def test_count_matches_each_answer_once():
     assert count(["cough", "cough", "fever"], ["dry cough", "rash"]) == (1, 2, 1)
+
+
+def test_exact_count_refuses_a_partial_match():
+    assert count(["cough"], ["dry cough"], _exact) == (0, 1, 1)
 
 
 def test_f1():
