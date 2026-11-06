@@ -12,7 +12,7 @@ NOT_MENTIONED = "not mentioned"
 
 
 class Item(BaseModel):
-    model_config = ConfigDict(extra="forbid")
+    model_config = ConfigDict(extra="forbid", str_strip_whitespace=True)
 
     value: str = Field(min_length=1, description="Copied word for word from the note.")
     source: str = Field(min_length=1, description="The sentence of the note that contains the value.")
